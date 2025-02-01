@@ -1,0 +1,31 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Ignore output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.pkl
+*.pickle
+*.joblib
+
+# Ignore virtual environment directories
+venv/
+.venv/
+
+# Ignore Colab specific files
+__pycache__/
+.config/
+
+# Ignore hidden files and directories
+.*
+!/.gitignore
