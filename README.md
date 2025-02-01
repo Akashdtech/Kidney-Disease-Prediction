@@ -1,4 +1,4 @@
-# Kidney-Disease-Prediction
+# Kidney-Disease-Prediction-ML
 This code performs an analysis of a chronic kidney disease dataset, followed by training a Random Forest classifier for predicting the presence of the disease (represented by the 'Class' column). Here's a step-by-step explanation of what the code does:
 
 Data Exploration and Cleaning:
